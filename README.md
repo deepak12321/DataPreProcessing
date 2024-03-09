@@ -1,10 +1,10 @@
 # Weather Prediction Model 
 
 ## Introduction
-This weather prediction model aims to forecast mean temperature using three different regression models: Ridge Regression, CatBoost Regression, and Random Forest Regression. Before running the model, it is essential to execute the Jupyter file named `Preprocessing.ipynb`, which generates `ptrain.xlsx` and `ptest.xlsx` for training and testing datasets, respectively.
+This weather prediction model aims to forecast weather data using three different regression models: Ridge Regression, CatBoost Regression, and Random Forest Regression. Before running the model, it is essential to execute the Jupyter file named `Preprocessing.ipynb`, which generates `ptrain.xlsx` and `ptest.xlsx` for training and testing datasets, respectively.
 
 ## Model Performance
-
+Based on Prediction of `mean temprature`
 | Model                      | Training MSE            | Test MSE                |
 | -------------------------- | ----------------------- | ----------------------- |
 | Ridge Regression           | 0.0005067880976842752  | 0.0005291707799874284  |
