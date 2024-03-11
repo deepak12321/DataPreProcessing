@@ -11,6 +11,7 @@ This weather prediction model aims to forecast mean temperature using three diff
 | CatBoost Regression        | 0.02142463432953739    | 0.026728164081720216   |
 | Random Forest Regression   | 0.008026658676339305   | 0.015708572702859806   |
 | XGBoost Regression            |0.0031750938718558145 |0.0002154651656265176|
+|SVM Model                    | 0.14379960580238918    |0.06510695069893949    |
 
 The table above summarizes the mean squared error metrics for each regression model on both the training and test datasets. Lower MSE values indicate better model accuracy.
 
